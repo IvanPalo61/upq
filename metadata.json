@@ -5,7 +5,7 @@
   "idioma": "es-MX",
   "columnas": [
     "texto",
-    "intencion",
+    "intencion", 
     "respuesta"
   ],
   "total_ejemplos": 200,
