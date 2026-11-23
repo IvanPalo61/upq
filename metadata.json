@@ -1,0 +1,79 @@
+{
+  "proyecto": "Chatbot UPQ - clasificación supervisada de intenciones",
+  "version": "0.2.0",
+  "actualizado": "2026-11-23",
+  "idioma": "es-MX",
+  "columnas": [
+    "texto",
+    "intencion",
+    "respuesta"
+  ],
+  "total_ejemplos": 200,
+  "intenciones": {
+    "admision": {
+      "cantidad": 20,
+      "respuesta_predeterminada": "El proceso de admisión consiste en: 1) Realizar el pre-registro en la plataforma, 2) Pagar el costo del proceso, 3) Enviar la documentación requerida al correo proceso.admision@upq.edu.mx, 4) Presentar examen de conocimientos, examen de habilidades del pensamiento y curso de inducción.",
+      "fuente": null,
+      "verificacion": "pendiente_de_verificacion"
+    },
+    "becas": {
+      "cantidad": 20,
+      "respuesta_predeterminada": "La UPQ gestiona procesos de selección para becas institucionales y programas sociales por medio de Servicios Estudiantiles. Consulta convocatorias y requisitos vigentes en https://www.upq.mx/.",
+      "fuente": "https://www.upq.mx/uploads/documentos/informacionpublica/transparencia/art66/2/A/2021/DIRECTORDESERVICIOSESTUDIANTILES.pdf",
+      "verificacion": "fuente_incluida"
+    },
+    "carreras": {
+      "cantidad": 20,
+      "respuesta_predeterminada": "La UPQ ofrece actualmente: Ingeniería Mecatrónica, Ingeniería en Tecnologías de la Información e Innovación Digital, Ingeniería en Tecnología Automotriz, Ingeniería en Manufactura Avanzada, Ingeniería de Datos e Inteligencia Artificial, Licenciatura en Administración y Licenciatura en Comercio Internacional y Aduanas.",
+      "fuente": null,
+      "verificacion": "pendiente_de_verificacion"
+    },
+    "contacto": {
+      "cantidad": 20,
+      "respuesta_predeterminada": "Puedes contactar a la Universidad Politécnica de Querétaro al teléfono (442) 101 9000 o a través del correo captacion@upq.edu.mx.",
+      "fuente": null,
+      "verificacion": "pendiente_de_verificacion"
+    },
+    "costo_admision": {
+      "cantidad": 20,
+      "respuesta_predeterminada": "El costo del proceso de admisión es de 15.93 UMA vigentes al momento de realizar el pago. Consulta el valor actual de la UMA.",
+      "fuente": null,
+      "verificacion": "pendiente_de_verificacion"
+    },
+    "oferta_educativa": {
+      "cantidad": 20,
+      "respuesta_predeterminada": "En la convocatoria de admisión 2026 se anuncian, entre otros programas, Ingeniería Mecatrónica, Ingeniería en Tecnología Automotriz, Ingeniería en Manufactura Avanzada, Ingeniería en Tecnologías de la Información e Innovación Digital e Ingeniería de Datos e Inteligencia Artificial. Revisa la convocatoria vigente para conocer toda la oferta disponible.",
+      "fuente": "https://queretaro.gob.mx/documents/714060/1641609/Convocatoria%2BUPQ.pdf/a4cfdc51-f586-a49e-817b-4405bed436a6?t=1769117944260",
+      "verificacion": "fuente_incluida"
+    },
+    "servicios_escolares": {
+      "cantidad": 20,
+      "respuesta_predeterminada": "Servicios Estudiantiles de la UPQ supervisa inscripciones, reinscripciones, altas, bajas, historial académico y documentos escolares. Consulta el trámite y sus requisitos vigentes en https://www.upq.mx/.",
+      "fuente": "https://www.upq.mx/uploads/documentos/informacionpublica/transparencia/art66/2/A/2021/DIRECTORDESERVICIOSESTUDIANTILES.pdf",
+      "verificacion": "fuente_incluida"
+    },
+    "sistema_alumnos": {
+      "cantidad": 20,
+      "respuesta_predeterminada": "La UPQ dispone de un Sistema Integral de Información para alumnos. Para consultar trámites o recuperar acceso, revisa el módulo oficial: https://sistemaintegral.upq.edu.mx/alumnos.php/password-recover.",
+      "fuente": "https://sistemaintegral.upq.edu.mx/alumnos.php/password-recover",
+      "verificacion": "fuente_incluida"
+    },
+    "titulacion": {
+      "cantidad": 20,
+      "respuesta_predeterminada": "La UPQ publica convocatorias de titulación con requisitos y pasos. En la convocatoria consultada se menciona contar con los créditos del programa y liberar servicio social; verifica la convocatoria vigente y el trámite con Servicios Estudiantiles.",
+      "fuente": "https://www.upq.mx/uploads/documentos/informacionpublica/transparencia/art66/18/2023/UPQ-DSE-FO-001_CT_2023.pdf",
+      "verificacion": "fuente_incluida"
+    },
+    "ubicacion": {
+      "cantidad": 20,
+      "respuesta_predeterminada": "La Universidad Politécnica de Querétaro (UPQ) se encuentra en Carretera Estatal 420 S/N, Comunidad El Rosario, C.P. 76240, El Marqués, Querétaro.",
+      "fuente": null,
+      "verificacion": "pendiente_de_verificacion"
+    }
+  },
+  "notas": [
+    "Las 100 primeras filas proceden del CSV original del equipo y deben verificarse con fuentes oficiales, sobre todo costos y plazos.",
+    "Las respuestas para las cinco categorías nuevas se basan en las fuentes enlazadas; los requisitos pueden cambiar.",
+    "La confianza mostrada en la interfaz es una probabilidad estimada del clasificador, no una garantía de exactitud."
+  ]
+}
