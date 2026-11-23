@@ -99,3 +99,204 @@ texto,intencion,respuesta
 ¿Hay precio especial para trabajadores de la UPQ?,costo_admision,"Existen tarifas especiales para trabajadores de la UPQ e hijos de trabajadores en la inscripción, pero el proceso de admisión sigue la tarifa general publicada."
 ¿El costo de admisión cambia cada año?,costo_admision,"El costo se expresa en UMA (15.93 UMA). El monto en pesos puede variar según el valor vigente de la UMA al momento del pago."
 ¿Puedo pagar el proceso de admisión en efectivo?,costo_admision,"El pago se realiza preferentemente con tarjeta desde el sistema o mediante referencia bancaria. Consulta las opciones disponibles en la convocatoria."
+¿La UPQ tiene becas para estudiantes?	becas	La UPQ cuenta con mecanismos de becas y apoyos estudiantiles. Las opciones disponibles dependen de las convocatorias y lineamientos vigentes.									
+¿Se puede solicitar apoyo económico en la UPQ?	becas	La UPQ cuenta con mecanismos de becas y apoyos estudiantiles. Las opciones disponibles dependen de las convocatorias y lineamientos vigentes.									
+¿Dónde consulto las convocatorias de becas?	becas	Consulta los avisos institucionales de becas en https://www.upq.mx/ y confirma las convocatorias con Servicios Estudiantiles.									
+¿Cómo encuentro una beca abierta en la universidad?	becas	Consulta los avisos institucionales de becas en https://www.upq.mx/ y confirma las convocatorias con Servicios Estudiantiles.									
+¿Cómo puedo solicitar una beca?	becas	Debes revisar la convocatoria correspondiente, comprobar que cumples los requisitos y presentar la solicitud y documentación durante el plazo establecido.									
+¿Qué tengo que hacer para tramitar una beca?	becas	Debes revisar la convocatoria correspondiente, comprobar que cumples los requisitos y presentar la solicitud y documentación durante el plazo establecido.									
+¿Qué documentos piden para una beca?	becas	La documentación varía según el tipo de beca. Revisa la convocatoria vigente para conocer los comprobantes y formatos exigidos.									
+¿Cuáles son los papeles necesarios para solicitar una beca?	becas	La documentación varía según el tipo de beca. Revisa la convocatoria vigente para conocer los comprobantes y formatos exigidos.									
+¿Hay becas por buen promedio?	becas	Los lineamientos institucionales contemplan becas relacionadas con el desempeño académico. Confirma los criterios vigentes en la convocatoria aplicable.									
+¿Existen apoyos por rendimiento académico?	becas	Los lineamientos institucionales contemplan becas relacionadas con el desempeño académico. Confirma los criterios vigentes en la convocatoria aplicable.									
+¿Hay apoyos para alumnos con dificultades económicas?	becas	Los lineamientos institucionales han contemplado apoyos por situación económica. Su disponibilidad y requisitos se deben confirmar en convocatorias actuales.									
+¿Se puede pedir una beca por necesidad económica?	becas	Los lineamientos institucionales han contemplado apoyos por situación económica. Su disponibilidad y requisitos se deben confirmar en convocatorias actuales.									
+¿Existe una beca deportiva?	becas	Los lineamientos de becas de la UPQ han incluido apoyos relacionados con actividades deportivas. Consulta si están disponibles en el periodo actual.									
+¿Apoyan con becas a quienes practican deporte?	becas	Los lineamientos de becas de la UPQ han incluido apoyos relacionados con actividades deportivas. Consulta si están disponibles en el periodo actual.									
+¿Hay becas para actividades culturales?	becas	Los lineamientos institucionales han contemplado becas artísticas y culturales. Comprueba los requisitos y la convocatoria vigente.									
+¿Se ofrecen apoyos a estudiantes con talento artístico?	becas	Los lineamientos institucionales han contemplado becas artísticas y culturales. Comprueba los requisitos y la convocatoria vigente.									
+¿Cuándo dan los resultados de las becas?	becas	Las fechas y los medios de publicación de resultados se indican en cada convocatoria de becas.									
+¿Dónde publican si me aprobaron la beca?	becas	Las fechas y los medios de publicación de resultados se indican en cada convocatoria de becas.									
+¿Puedo renovar una beca el siguiente cuatrimestre?	becas	Las condiciones de renovación dependen del programa de beca y de sus lineamientos. Consulta el periodo, los criterios académicos y los requisitos de renovación.									
+¿Qué hago para conservar mi beca?	becas	Las condiciones de renovación dependen del programa de beca y de sus lineamientos. Consulta el periodo, los criterios académicos y los requisitos de renovación.									
+¿Qué trámites atiende Servicios Escolares?	servicios_escolares	Servicios Escolares participa en inscripciones, reinscripciones, historial académico, altas, bajas y expedición de documentos.									
+¿Para qué sirve el departamento de Servicios Escolares?	servicios_escolares	Servicios Escolares participa en inscripciones, reinscripciones, historial académico, altas, bajas y expedición de documentos.									
+¿Dónde solicito una constancia de estudios?	servicios_escolares	Solicita información en Servicios Escolares sobre el procedimiento, los requisitos y el costo vigente para emitir una constancia de estudios.									
+¿Cómo puedo conseguir una constancia de alumno?	servicios_escolares	Solicita información en Servicios Escolares sobre el procedimiento, los requisitos y el costo vigente para emitir una constancia de estudios.									
+¿Cómo obtengo mi historial académico?	servicios_escolares	Servicios Escolares administra el historial académico del alumnado. Consulta el trámite de expedición con esa área.									
+¿Dónde pido mi historial de materias?	servicios_escolares	Servicios Escolares administra el historial académico del alumnado. Consulta el trámite de expedición con esa área.									
+¿Cómo tramito una credencial de estudiante?	servicios_escolares	Servicios Escolares gestiona documentos como las credenciales. Pregunta por el procedimiento y los requisitos de expedición o reposición.									
+¿Dónde solicito reposición de credencial?	servicios_escolares	Servicios Escolares gestiona documentos como las credenciales. Pregunta por el procedimiento y los requisitos de expedición o reposición.									
+¿Cómo hago la reinscripción?	servicios_escolares	La reinscripción se realiza conforme al calendario y las indicaciones oficiales de la UPQ. Verifica el procedimiento vigente en Servicios Escolares.									
+¿Dónde consulto el trámite de reinscripción?	servicios_escolares	La reinscripción se realiza conforme al calendario y las indicaciones oficiales de la UPQ. Verifica el procedimiento vigente en Servicios Escolares.									
+¿Puedo dar de baja una materia?	servicios_escolares	La gestión de altas y bajas de materias corresponde a los procesos escolares. Consulta fechas, condiciones y autorización necesaria en Servicios Escolares.									
+¿Cómo solicito baja de asignatura?	servicios_escolares	La gestión de altas y bajas de materias corresponde a los procesos escolares. Consulta fechas, condiciones y autorización necesaria en Servicios Escolares.									
+¿Qué hago si necesito baja temporal?	servicios_escolares	Consulta en Servicios Escolares los requisitos, los plazos y los efectos académicos de una baja temporal.									
+¿Se puede solicitar una baja temporal de la universidad?	servicios_escolares	Consulta en Servicios Escolares los requisitos, los plazos y los efectos académicos de una baja temporal.									
+¿Cómo solicito un certificado escolar?	servicios_escolares	Servicios Escolares se encarga de la expedición de documentos académicos oficiales. Solicita ahí información sobre certificados y tiempos de entrega.									
+¿Dónde obtengo un certificado de estudios?	servicios_escolares	Servicios Escolares se encarga de la expedición de documentos académicos oficiales. Solicita ahí información sobre certificados y tiempos de entrega.									
+¿Quién corrige mis datos escolares?	servicios_escolares	Reporta la discrepancia a Servicios Escolares y pregunta qué documentos de identidad se requieren para corregir tu expediente.									
+¿Qué hago si mi nombre aparece mal en el expediente?	servicios_escolares	Reporta la discrepancia a Servicios Escolares y pregunta qué documentos de identidad se requieren para corregir tu expediente.									
+¿Cómo puedo comprobar que estoy inscrito?	servicios_escolares	Puedes consultar con Servicios Escolares la emisión de constancias o documentos oficiales que acrediten tu inscripción.									
+¿Quién me expide un comprobante de inscripción?	servicios_escolares	Puedes consultar con Servicios Escolares la emisión de constancias o documentos oficiales que acrediten tu inscripción.									
+¿Cómo inicio el trámite de titulación?	titulacion	Consulta con el área de Titulación los requisitos, formatos, pagos y pasos vigentes para iniciar tu trámite.									
+¿Qué debo hacer para titularme en la UPQ?	titulacion	Consulta con el área de Titulación los requisitos, formatos, pagos y pasos vigentes para iniciar tu trámite.									
+¿Qué documentos necesito para titularme?	titulacion	Los documentos exigidos dependen del trámite y de la normativa vigente. Solicita la lista actualizada al área de Titulación.									
+¿Qué papeles se requieren para el título universitario?	titulacion	Los documentos exigidos dependen del trámite y de la normativa vigente. Solicita la lista actualizada al área de Titulación.									
+¿Dónde solicito mi título?	titulacion	Solicita orientación al área de Titulación o a Servicios Escolares, encargados de los procedimientos relacionados con documentos académicos.									
+¿Qué departamento entrega información del título profesional?	titulacion	Solicita orientación al área de Titulación o a Servicios Escolares, encargados de los procedimientos relacionados con documentos académicos.									
+¿Cuánto tarda el título?	titulacion	El plazo puede variar según el estado del expediente y los procesos administrativos. Confirma los tiempos actuales con Titulación.									
+¿En cuánto tiempo entregan el título profesional?	titulacion	El plazo puede variar según el estado del expediente y los procesos administrativos. Confirma los tiempos actuales con Titulación.									
+¿Cómo consulto el estado de mi titulación?	titulacion	Pide al área de Titulación una actualización del estado de tu expediente y los pasos pendientes.									
+¿Puedo saber cómo va mi trámite de título?	titulacion	Pide al área de Titulación una actualización del estado de tu expediente y los pasos pendientes.									
+¿La titulación tiene costo?	titulacion	Los importes pueden cambiar. Consulta el tabulador y las indicaciones de pago vigentes de la UPQ.									
+¿Cuánto cobran por tramitar el título?	titulacion	Los importes pueden cambiar. Consulta el tabulador y las indicaciones de pago vigentes de la UPQ.									
+¿Cómo se solicita la cédula profesional?	titulacion	Pregunta al área de Titulación cómo se realiza el registro del título y qué procedimiento corresponde para gestionar la cédula profesional ante la autoridad competente.									
+¿La UPQ me ayuda con la cédula profesional?	titulacion	Pregunta al área de Titulación cómo se realiza el registro del título y qué procedimiento corresponde para gestionar la cédula profesional ante la autoridad competente.									
+¿Qué hago si me falta un documento para titularme?	titulacion	Consulta a Titulación qué documentos faltan y si debes completarlos antes de avanzar con el trámite.									
+¿Se puede continuar titulación con expediente incompleto?	titulacion	Consulta a Titulación qué documentos faltan y si debes completarlos antes de avanzar con el trámite.									
+¿Puedo titularme si tengo adeudos?	titulacion	Verifica con Servicios Escolares o Titulación los requisitos administrativos y si existen pendientes que debas regularizar.									
+¿Qué pasa con mi título si debo algún trámite?	titulacion	Verifica con Servicios Escolares o Titulación los requisitos administrativos y si existen pendientes que debas regularizar.									
+¿Dónde aclaro un error en mi título?	titulacion	Comunícate con el área de Titulación para solicitar revisión de los datos y conocer el procedimiento de corrección.									
+¿A quién reporto datos incorrectos en mi título?	titulacion	Comunícate con el área de Titulación para solicitar revisión de los datos y conocer el procedimiento de corrección.									
+¿La UPQ tiene biblioteca?	biblioteca	La UPQ cuenta con un espacio de biblioteca dentro del campus. Consulta directamente el acceso y los servicios actuales.									
+¿Hay biblioteca dentro del campus?	biblioteca	La UPQ cuenta con un espacio de biblioteca dentro del campus. Consulta directamente el acceso y los servicios actuales.									
+¿Dónde se encuentra la biblioteca?	biblioteca	La biblioteca se encuentra dentro de las instalaciones de la UPQ. Pregunta al personal del campus por el edificio y acceso vigentes.									
+¿En qué parte de la universidad está la biblioteca?	biblioteca	La biblioteca se encuentra dentro de las instalaciones de la UPQ. Pregunta al personal del campus por el edificio y acceso vigentes.									
+¿Cuál es el horario de la biblioteca?	biblioteca	Los horarios pueden variar por periodo escolar. Consulta el horario vigente directamente con la biblioteca.									
+¿A qué hora abre la biblioteca de la UPQ?	biblioteca	Los horarios pueden variar por periodo escolar. Consulta el horario vigente directamente con la biblioteca.									
+¿Puedo pedir libros prestados?	biblioteca	Consulta con la biblioteca la disponibilidad de préstamos, los requisitos para usuarios y los plazos de devolución.									
+¿Cómo funciona el préstamo de libros?	biblioteca	Consulta con la biblioteca la disponibilidad de préstamos, los requisitos para usuarios y los plazos de devolución.									
+¿Cómo renuevo un libro prestado?	biblioteca	Pregunta en la biblioteca si tu préstamo puede renovarse y cuál es el procedimiento vigente.									
+¿Se puede extender el préstamo de un libro?	biblioteca	Pregunta en la biblioteca si tu préstamo puede renovarse y cuál es el procedimiento vigente.									
+¿La biblioteca tiene catálogo de libros?	biblioteca	Solicita al personal de biblioteca información sobre el catálogo o los medios disponibles para buscar material bibliográfico.									
+¿Dónde consulto los libros disponibles?	biblioteca	Solicita al personal de biblioteca información sobre el catálogo o los medios disponibles para buscar material bibliográfico.									
+¿Se puede estudiar en la biblioteca?	biblioteca	Consulta las normas de acceso y los espacios de consulta o estudio habilitados en la biblioteca de la UPQ.									
+¿Hay mesas para estudiar en la biblioteca?	biblioteca	Consulta las normas de acceso y los espacios de consulta o estudio habilitados en la biblioteca de la UPQ.									
+¿Cómo obtengo acceso a recursos digitales?	biblioteca	Pregunta a la biblioteca si hay recursos digitales, qué colecciones están activas y cómo acceder con una cuenta institucional.									
+¿Tienen libros electrónicos en la biblioteca?	biblioteca	Pregunta a la biblioteca si hay recursos digitales, qué colecciones están activas y cómo acceder con una cuenta institucional.									
+¿Qué pasa si entrego tarde un libro?	biblioteca	Las condiciones por retraso dependen del reglamento de biblioteca. Consulta las reglas actuales antes de devolver el material.									
+¿Hay sanción por retrasarme con un préstamo?	biblioteca	Las condiciones por retraso dependen del reglamento de biblioteca. Consulta las reglas actuales antes de devolver el material.									
+¿A quién pregunto por un libro que no encuentro?	biblioteca	El personal de biblioteca puede orientarte sobre la búsqueda y disponibilidad del material que necesitas.									
+¿Quién me ayuda a localizar material bibliográfico?	biblioteca	El personal de biblioteca puede orientarte sobre la búsqueda y disponibilidad del material que necesitas.									
+¿La UPQ ofrece cursos de idiomas?	idiomas	La UPQ contempla actividades de su Centro de Idiomas. Consulta la oferta y los periodos de inscripción vigentes.									
+¿Hay clases de idiomas en la universidad?	idiomas	La UPQ contempla actividades de su Centro de Idiomas. Consulta la oferta y los periodos de inscripción vigentes.									
+¿Dónde me informo sobre inglés?	idiomas	Solicita información al Centro de Idiomas de la UPQ sobre niveles, horarios y requisitos.									
+¿A quién pregunto por los cursos de inglés?	idiomas	Solicita información al Centro de Idiomas de la UPQ sobre niveles, horarios y requisitos.									
+¿Cómo me inscribo a idiomas?	idiomas	Revisa las indicaciones del Centro de Idiomas para el registro, los pagos aplicables y los grupos disponibles.									
+¿Qué debo hacer para registrarme a un curso de idioma?	idiomas	Revisa las indicaciones del Centro de Idiomas para el registro, los pagos aplicables y los grupos disponibles.									
+¿Cuánto cuesta un curso de inglés?	idiomas	El costo depende del curso y del periodo. Consulta las tarifas oficiales actualizadas del Centro de Idiomas.									
+¿Cuál es el precio de los cursos de idiomas?	idiomas	El costo depende del curso y del periodo. Consulta las tarifas oficiales actualizadas del Centro de Idiomas.									
+¿Hay examen de ubicación de inglés?	idiomas	Pregunta al Centro de Idiomas si se aplica examen de ubicación y cómo solicitarlo.									
+¿Puedo presentar una evaluación para saber mi nivel de inglés?	idiomas	Pregunta al Centro de Idiomas si se aplica examen de ubicación y cómo solicitarlo.									
+¿Qué niveles de inglés imparten?	idiomas	La oferta de niveles debe confirmarse con el Centro de Idiomas, pues depende de la programación académica vigente.									
+¿Hasta qué nivel puedo estudiar inglés en la UPQ?	idiomas	La oferta de niveles debe confirmarse con el Centro de Idiomas, pues depende de la programación académica vigente.									
+¿Los cursos de idiomas tienen horarios sabatinos?	idiomas	Consulta los horarios y las modalidades de los grupos disponibles en el Centro de Idiomas.									
+¿Hay clases de inglés los sábados?	idiomas	Consulta los horarios y las modalidades de los grupos disponibles en el Centro de Idiomas.									
+¿Puedo acreditar inglés con una certificación?	idiomas	Pregunta al Centro de Idiomas y a tu coordinación académica qué certificaciones o mecanismos de acreditación se aceptan.									
+¿Se acepta certificado externo para acreditar idiomas?	idiomas	Pregunta al Centro de Idiomas y a tu coordinación académica qué certificaciones o mecanismos de acreditación se aceptan.									
+¿Cómo obtengo una constancia de idioma?	idiomas	Solicita al Centro de Idiomas información sobre la expedición de constancias o comprobantes de tus estudios.									
+¿Dónde pido un comprobante de curso de inglés?	idiomas	Solicita al Centro de Idiomas información sobre la expedición de constancias o comprobantes de tus estudios.									
+¿Qué pasa si repruebo inglés?	idiomas	Consulta con el Centro de Idiomas las opciones de recursamiento o regularización y los requisitos que correspondan.									
+¿Cómo puedo recuperar un nivel de inglés no aprobado?	idiomas	Consulta con el Centro de Idiomas las opciones de recursamiento o regularización y los requisitos que correspondan.									
+¿Qué son las estadías profesionales de la UPQ?	estadias	Las estadías son actividades de formación vinculadas con la práctica profesional. Consulta los requisitos de tu programa educativo.									
+¿Para qué sirve una estadía universitaria?	estadias	Las estadías son actividades de formación vinculadas con la práctica profesional. Consulta los requisitos de tu programa educativo.									
+¿Cómo consigo una empresa para estadías?	estadias	Pregunta a tu coordinación académica y al área de Vinculación por las opciones, convenios y procesos para proponer una empresa.									
+¿Dónde puedo buscar una organización para realizar mi estadía?	estadias	Pregunta a tu coordinación académica y al área de Vinculación por las opciones, convenios y procesos para proponer una empresa.									
+¿Cuándo puedo iniciar mi estadía?	estadias	El periodo para realizar estadías depende del plan de estudios de tu carrera. Confirma la etapa correspondiente con tu coordinación.									
+¿En qué cuatrimestre se hacen las estadías?	estadias	El periodo para realizar estadías depende del plan de estudios de tu carrera. Confirma la etapa correspondiente con tu coordinación.									
+¿Quién autoriza la empresa de estadías?	estadias	Consulta con tu coordinación académica y Vinculación el procedimiento de validación de una empresa receptora.									
+¿A quién le presento mi propuesta de empresa para estadía?	estadias	Consulta con tu coordinación académica y Vinculación el procedimiento de validación de una empresa receptora.									
+¿Qué documentos piden para estadías?	estadias	Los formatos y documentos se establecen por programa y periodo. Solicita la lista actualizada a tu coordinación o Vinculación.									
+¿Qué formatos debo entregar para la estadía?	estadias	Los formatos y documentos se establecen por programa y periodo. Solicita la lista actualizada a tu coordinación o Vinculación.									
+¿La universidad tiene convenios con empresas?	estadias	La UPQ desarrolla actividades de vinculación con organizaciones. Pregunta al área de Vinculación por los convenios y oportunidades vigentes.									
+¿Existen empresas vinculadas con la UPQ?	estadias	La UPQ desarrolla actividades de vinculación con organizaciones. Pregunta al área de Vinculación por los convenios y oportunidades vigentes.									
+¿Quién revisa mi proyecto de estadía?	estadias	La supervisión y los asesores se determinan conforme a los lineamientos del programa. Consulta los responsables asignados con tu coordinación.									
+¿Tendré asesor durante las estadías?	estadias	La supervisión y los asesores se determinan conforme a los lineamientos del programa. Consulta los responsables asignados con tu coordinación.									
+¿Puedo hacer estadías fuera de Querétaro?	estadias	La autorización depende del programa, la empresa y las reglas institucionales. Consulta la posibilidad con tu coordinación y Vinculación.									
+¿Se puede realizar una estadía en otro estado?	estadias	La autorización depende del programa, la empresa y las reglas institucionales. Consulta la posibilidad con tu coordinación y Vinculación.									
+¿Cómo entrego mi reporte de estadía?	estadias	Solicita a tu coordinación el formato, los criterios y las fechas de entrega del reporte o proyecto de estadía.									
+¿Dónde presento el proyecto final de estadía?	estadias	Solicita a tu coordinación el formato, los criterios y las fechas de entrega del reporte o proyecto de estadía.									
+¿Qué sucede si no encuentro estadía?	estadias	Acércate a tu coordinación académica y a Vinculación para conocer las alternativas y los plazos disponibles.									
+¿Con quién hablo si todavía no consigo una empresa?	estadias	Acércate a tu coordinación académica y a Vinculación para conocer las alternativas y los plazos disponibles.									
+¿La UPQ ofrece tutorías académicas?	tutorias	La tutoría forma parte de las actividades de acompañamiento académico contempladas por la UPQ.									
+¿Hay acompañamiento de tutores en la universidad?	tutorias	La tutoría forma parte de las actividades de acompañamiento académico contempladas por la UPQ.									
+¿Cómo sé quién es mi tutor?	tutorias	Pregunta a tu coordinación académica cómo identificar a la persona responsable de tu tutoría.									
+¿Dónde puedo consultar mi tutor asignado?	tutorias	Pregunta a tu coordinación académica cómo identificar a la persona responsable de tu tutoría.									
+¿Para qué sirve una tutoría?	tutorias	La tutoría busca acompañar la trayectoria estudiantil y orientar sobre situaciones que puedan afectar el desempeño académico.									
+¿En qué me puede ayudar un tutor académico?	tutorias	La tutoría busca acompañar la trayectoria estudiantil y orientar sobre situaciones que puedan afectar el desempeño académico.									
+¿Cómo solicito una asesoría de materia?	tutorias	Consulta con tu docente o coordinación académica la disponibilidad de asesorías para la materia.									
+¿Puedo pedir ayuda adicional en una asignatura?	tutorias	Consulta con tu docente o coordinación académica la disponibilidad de asesorías para la materia.									
+¿Qué hago si voy reprobando?	tutorias	Comunícate con tu docente, tutor o coordinación para revisar apoyos académicos y alternativas de regularización.									
+¿A quién le pido ayuda si tengo malas calificaciones?	tutorias	Comunícate con tu docente, tutor o coordinación para revisar apoyos académicos y alternativas de regularización.									
+¿Hay recursamientos en la UPQ?	tutorias	La UPQ contempla actividades de recursamiento. Los requisitos y periodos deben confirmarse con Servicios Escolares y tu coordinación.									
+¿Se pueden volver a cursar materias no aprobadas?	tutorias	La UPQ contempla actividades de recursamiento. Los requisitos y periodos deben confirmarse con Servicios Escolares y tu coordinación.									
+¿Cómo hablo con mi coordinador de carrera?	tutorias	Consulta el directorio institucional o pregunta en tu programa educativo por los canales de atención de la coordinación.									
+¿Dónde puedo contactar a la coordinación académica?	tutorias	Consulta el directorio institucional o pregunta en tu programa educativo por los canales de atención de la coordinación.									
+¿Puedo pedir orientación académica?	tutorias	Puedes acudir a tu tutor o coordinación académica para recibir orientación sobre tu trayectoria escolar.									
+¿Quién me ayuda a organizar mis materias?	tutorias	Puedes acudir a tu tutor o coordinación académica para recibir orientación sobre tu trayectoria escolar.									
+¿Se pueden programar tutorías individuales?	tutorias	Solicita a tu tutor o coordinación las opciones para concertar una sesión y los horarios disponibles.									
+¿Cómo agendo una sesión con un tutor?	tutorias	Solicita a tu tutor o coordinación las opciones para concertar una sesión y los horarios disponibles.									
+¿Qué hago si tengo un problema académico?	tutorias	Acude a tu tutor, a la coordinación de tu programa o a Servicios Estudiantiles según la naturaleza de la situación.									
+¿A quién acudo por una situación que afecta mis estudios?	tutorias	Acude a tu tutor, a la coordinación de tu programa o a Servicios Estudiantiles según la naturaleza de la situación.									
+¿La UPQ tiene programas de movilidad?	movilidad	La UPQ contempla gestiones de vinculación con universidades del extranjero. Consulta las oportunidades disponibles y sus convocatorias.									
+¿Puedo participar en intercambio estudiantil?	movilidad	La UPQ contempla gestiones de vinculación con universidades del extranjero. Consulta las oportunidades disponibles y sus convocatorias.									
+¿Dónde pregunto por intercambios?	movilidad	Pregunta a Vinculación o a tu coordinación académica por los programas de movilidad abiertos.									
+¿Qué área me informa sobre movilidad internacional?	movilidad	Pregunta a Vinculación o a tu coordinación académica por los programas de movilidad abiertos.									
+¿Cuáles son los requisitos para irme de intercambio?	movilidad	Cada programa define requisitos académicos, documentos, idiomas y fechas. Revisa la convocatoria correspondiente.									
+¿Qué necesito para solicitar movilidad?	movilidad	Cada programa define requisitos académicos, documentos, idiomas y fechas. Revisa la convocatoria correspondiente.									
+¿Hay intercambios fuera de México?	movilidad	La posibilidad depende de los acuerdos y convocatorias vigentes. Consulta los destinos autorizados con el área responsable.									
+¿Puedo estudiar un periodo en otro país?	movilidad	La posibilidad depende de los acuerdos y convocatorias vigentes. Consulta los destinos autorizados con el área responsable.									
+¿Cuándo salen convocatorias de movilidad?	movilidad	Las fechas dependen de cada programa. Consulta los avisos oficiales y la oficina de Vinculación.									
+¿En qué fechas abren los intercambios?	movilidad	Las fechas dependen de cada programa. Consulta los avisos oficiales y la oficina de Vinculación.									
+¿Piden inglés para movilidad?	movilidad	El requisito de idioma depende de la universidad de destino y de la convocatoria de movilidad.									
+¿Necesito un certificado de idioma para intercambio?	movilidad	El requisito de idioma depende de la universidad de destino y de la convocatoria de movilidad.									
+¿Puedo revalidar materias del intercambio?	movilidad	La revalidación o reconocimiento de estudios depende de la autorización académica y de los convenios aplicables. Consulta tu coordinación.									
+¿Cómo reconocen las asignaturas cursadas en otra universidad?	movilidad	La revalidación o reconocimiento de estudios depende de la autorización académica y de los convenios aplicables. Consulta tu coordinación.									
+¿Existen becas para movilidad?	movilidad	Pregunta por convocatorias de apoyo asociadas a movilidad; los montos, la elegibilidad y la disponibilidad varían.									
+¿Hay apoyos económicos para intercambios?	movilidad	Pregunta por convocatorias de apoyo asociadas a movilidad; los montos, la elegibilidad y la disponibilidad varían.									
+¿Cómo postulo a una universidad extranjera?	movilidad	Solicita la convocatoria y sigue el procedimiento de postulación, revisión documental y autorización académica establecido.									
+¿Qué pasos sigo para solicitar intercambio internacional?	movilidad	Solicita la convocatoria y sigue el procedimiento de postulación, revisión documental y autorización académica establecido.									
+¿Quién me orienta con la documentación de movilidad?	movilidad	El área de Vinculación y tu coordinación académica pueden indicarte los responsables y requisitos documentales aplicables.									
+¿Dónde revisan mis papeles para intercambio?	movilidad	El área de Vinculación y tu coordinación académica pueden indicarte los responsables y requisitos documentales aplicables.									
+¿Hay actividades deportivas en la UPQ?	actividades	La UPQ contempla actividades deportivas y participación estudiantil. Consulta los grupos y eventos disponibles en el periodo actual.									
+¿La universidad organiza deportes para estudiantes?	actividades	La UPQ contempla actividades deportivas y participación estudiantil. Consulta los grupos y eventos disponibles en el periodo actual.									
+¿Cómo me inscribo a un deporte?	actividades	Solicita a Servicios Estudiantiles información sobre talleres o equipos, requisitos y horarios vigentes.									
+¿Dónde puedo registrarme en actividades deportivas?	actividades	Solicita a Servicios Estudiantiles información sobre talleres o equipos, requisitos y horarios vigentes.									
+¿La universidad tiene actividades culturales?	actividades	La UPQ contempla actividades artísticas y culturales. Consulta la programación vigente y los requisitos de participación.									
+¿Organizan talleres culturales para alumnos?	actividades	La UPQ contempla actividades artísticas y culturales. Consulta la programación vigente y los requisitos de participación.									
+¿Cómo participo en eventos culturales?	actividades	Pregunta a Servicios Estudiantiles o al área organizadora por las convocatorias y la inscripción.									
+¿Dónde me registro para un taller artístico?	actividades	Pregunta a Servicios Estudiantiles o al área organizadora por las convocatorias y la inscripción.									
+¿La UPQ participa en torneos?	actividades	La UPQ contempla participación estudiantil en actividades deportivas. Consulta los equipos, selecciones y convocatorias actuales.									
+¿Puedo representar a la universidad en competencias deportivas?	actividades	La UPQ contempla participación estudiantil en actividades deportivas. Consulta los equipos, selecciones y convocatorias actuales.									
+¿Hay eventos académicos en la UPQ?	actividades	Revisa los comunicados y las redes oficiales de la UPQ para conocer eventos académicos próximos.									
+¿Dónde anuncian conferencias o actividades universitarias?	actividades	Revisa los comunicados y las redes oficiales de la UPQ para conocer eventos académicos próximos.									
+¿Puedo proponer un club estudiantil?	actividades	Consulta con Servicios Estudiantiles las reglas y autorizaciones para proponer actividades o agrupaciones.									
+¿Con quién hablo para organizar una actividad estudiantil?	actividades	Consulta con Servicios Estudiantiles las reglas y autorizaciones para proponer actividades o agrupaciones.									
+¿Dónde veo los eventos de esta semana?	actividades	Consulta la página https://www.upq.mx/ y las comunicaciones institucionales para revisar la agenda actualizada.									
+¿Cómo me entero de actividades próximas del campus?	actividades	Consulta la página https://www.upq.mx/ y las comunicaciones institucionales para revisar la agenda actualizada.									
+¿Qué hago para participar en una competencia cultural?	actividades	Pregunta al área organizadora o a Servicios Estudiantiles por las convocatorias, requisitos y disponibilidad.									
+¿Cómo ingreso a una selección artística universitaria?	actividades	Pregunta al área organizadora o a Servicios Estudiantiles por las convocatorias, requisitos y disponibilidad.									
+¿Las actividades deportivas tienen costo?	actividades	Los costos, si existen, dependen de cada actividad. Confirma las condiciones en la convocatoria o con el área responsable.									
+¿Cobran por inscribirse a talleres culturales?	actividades	Los costos, si existen, dependen de cada actividad. Confirma las condiciones en la convocatoria o con el área responsable.									
+¿Dónde está el calendario escolar de la UPQ?	calendario_escolar	Consulta el calendario escolar publicado por la UPQ en sus canales oficiales o solicítalo en Servicios Escolares.									
+¿Cómo consulto las fechas oficiales del cuatrimestre?	calendario_escolar	Consulta el calendario escolar publicado por la UPQ en sus canales oficiales o solicítalo en Servicios Escolares.									
+¿Cuándo empieza el siguiente cuatrimestre?	calendario_escolar	La fecha exacta está indicada en el calendario escolar vigente; consúltalo en los avisos institucionales.									
+¿En qué fecha inicia el próximo periodo de clases?	calendario_escolar	La fecha exacta está indicada en el calendario escolar vigente; consúltalo en los avisos institucionales.									
+¿Cuándo termina el cuatrimestre?	calendario_escolar	Consulta en el calendario escolar oficial la fecha de conclusión del cuatrimestre correspondiente.									
+¿Cuál es el último día del periodo escolar?	calendario_escolar	Consulta en el calendario escolar oficial la fecha de conclusión del cuatrimestre correspondiente.									
+¿Qué días no hay clases?	calendario_escolar	El calendario escolar y los avisos oficiales indican los días inhábiles y las suspensiones programadas.									
+¿Dónde puedo ver los días inhábiles de la UPQ?	calendario_escolar	El calendario escolar y los avisos oficiales indican los días inhábiles y las suspensiones programadas.									
+¿Cuándo es el periodo de reinscripciones?	calendario_escolar	Los periodos de reinscripción se anuncian en el calendario y en las instrucciones emitidas por Servicios Escolares.									
+¿Qué fechas hay para reinscribirme?	calendario_escolar	Los periodos de reinscripción se anuncian en el calendario y en las instrucciones emitidas por Servicios Escolares.									
+¿Cuándo son las vacaciones?	calendario_escolar	Revisa el calendario escolar vigente para conocer los periodos de receso y vacaciones.									
+¿Dónde consulto el periodo vacacional de la UPQ?	calendario_escolar	Revisa el calendario escolar vigente para conocer los periodos de receso y vacaciones.									
+¿Cuándo se entregan calificaciones?	calendario_escolar	Las fechas de evaluación y registro de calificaciones deben consultarse en el calendario académico o con tu coordinación.									
+¿En qué fecha cierran evaluaciones?	calendario_escolar	Las fechas de evaluación y registro de calificaciones deben consultarse en el calendario académico o con tu coordinación.									
+¿La UPQ usa cuatrimestres?	calendario_escolar	La trayectoria académica de la UPQ se organiza en periodos cuatrimestrales. Consulta el calendario vigente para conocer las fechas concretas.									
+¿Cómo se divide el ciclo escolar en la universidad?	calendario_escolar	La trayectoria académica de la UPQ se organiza en periodos cuatrimestrales. Consulta el calendario vigente para conocer las fechas concretas.									
+¿Dónde anuncian cambios de calendario?	calendario_escolar	Los cambios se deben verificar en comunicados oficiales de la UPQ, con Servicios Escolares o con tu coordinación.									
+¿Cómo me entero si modificaron las fechas de clases?	calendario_escolar	Los cambios se deben verificar en comunicados oficiales de la UPQ, con Servicios Escolares o con tu coordinación.									
+¿Cuándo empieza el próximo ciclo escolar?	calendario_escolar	Confirma la fecha en el calendario escolar y en los avisos oficiales correspondientes al ciclo de tu programa.									
+¿Cuál es la fecha oficial de inicio de clases del siguiente ciclo?	calendario_escolar	Confirma la fecha en el calendario escolar y en los avisos oficiales correspondientes al ciclo de tu programa.									
+											
