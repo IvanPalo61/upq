@@ -13,7 +13,7 @@ RUTA_MODELO = os.path.join(BASE, "modelos", "modelo_svm.joblib")  # modelo elegi
 
 # Confianza = puntaje máximo de decision_function del SVM.
 # En pruebas: preguntas de la UPQ ~0.6-1.3; fuera de tema ~ -0.7-0.1.
-UMBRAL_CONFIANZA = 0.25
+UMBRAL_CONFIANZA = 1 #0.25
 
 _modelo = joblib.load(RUTA_MODELO)
 
