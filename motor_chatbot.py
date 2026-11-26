@@ -29,7 +29,7 @@ _modelo = joblib.load(RUTA_MODELO)
 
 def clasificar(pregunta):
     """Devuelve (intencion, confianza) para una pregunta."""
-
+ 
     texto = [pregunta.lower().strip()]
 
     if hasattr(_modelo, "decision_function"):  # SVM
