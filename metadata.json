@@ -1,79 +1,177 @@
 {
   "proyecto": "Chatbot UPQ - clasificación supervisada de intenciones",
-  "version": "0.2.0",
-  "actualizado": "2026-11-23",
+  "version": "0.3.0",
+  "actualizado": "2026-11-28",
   "idioma": "es-MX",
+  "dataset": "dataset_upq.csv",
   "columnas": [
     "texto",
-    "intencion", 
+    "intencion",
     "respuesta"
   ],
-  "total_ejemplos": 200,
+  "codificacion": "UTF-8 con BOM",
+  "total_ejemplos": 1897,
+  "total_intenciones": 15,
   "intenciones": {
+    "actividades": {
+      "cantidad": 129,
+      "respuesta_predeterminada": "La UPQ contempla actividades deportivas y participacion estudiantil. Consulta los grupos y eventos disponibles en el periodo actual.",
+      "fuente": null,
+      "verificacion": "pendiente_de_verificacion"
+    },
     "admision": {
-      "cantidad": 20,
-      "respuesta_predeterminada": "El proceso de admisión consiste en: 1) Realizar el pre-registro en la plataforma, 2) Pagar el costo del proceso, 3) Enviar la documentación requerida al correo proceso.admision@upq.edu.mx, 4) Presentar examen de conocimientos, examen de habilidades del pensamiento y curso de inducción.",
+      "cantidad": 133,
+      "respuesta_predeterminada": "El proceso de admision consiste en: 1) Realizar el pre-registro en la plataforma, 2) Pagar el costo del proceso, 3) Enviar la documentacion requerida al correo proceso.admision@upq.edu.mx, 4) Presentar examen de conocimientos, examen de habilidades del pensamiento y curso de induccion.",
       "fuente": null,
       "verificacion": "pendiente_de_verificacion"
     },
     "becas": {
-      "cantidad": 20,
-      "respuesta_predeterminada": "La UPQ gestiona procesos de selección para becas institucionales y programas sociales por medio de Servicios Estudiantiles. Consulta convocatorias y requisitos vigentes en https://www.upq.mx/.",
+      "cantidad": 141,
+      "respuesta_predeterminada": "La UPQ ofrece becas de movilidad internacional mediante convenios, de vulnerabilidad (descuento en la reinscripcion), por proyecto en un area de la universidad (apoyo de $2,000 MXN al mes) y por excelencia academica (promedio de 9.5 o superior). Consulta la convocatoria correspondiente.",
       "fuente": "https://www.upq.mx/uploads/documentos/informacionpublica/transparencia/art66/2/A/2021/DIRECTORDESERVICIOSESTUDIANTILES.pdf",
-      "verificacion": "fuente_incluida"
+      "verificacion": "fuente_incluida_pendiente_de_verificacion"
+    },
+    "biblioteca": {
+      "cantidad": 120,
+      "respuesta_predeterminada": "La biblioteca se encuentra dentro del campus principal de la UPQ en Carretera Estatal 420 S/N, El Rosario, El Marques, Queretaro.",
+      "fuente": null,
+      "verificacion": "pendiente_de_verificacion"
+    },
+    "calendario_escolar": {
+      "cantidad": 109,
+      "respuesta_predeterminada": "Las fechas de inicio de clases se publican en cada convocatoria. Generalmente el ciclo inicia en septiembre.",
+      "fuente": null,
+      "verificacion": "pendiente_de_verificacion"
     },
     "carreras": {
-      "cantidad": 20,
-      "respuesta_predeterminada": "La UPQ ofrece actualmente: Ingeniería Mecatrónica, Ingeniería en Tecnologías de la Información e Innovación Digital, Ingeniería en Tecnología Automotriz, Ingeniería en Manufactura Avanzada, Ingeniería de Datos e Inteligencia Artificial, Licenciatura en Administración y Licenciatura en Comercio Internacional y Aduanas.",
+      "cantidad": 120,
+      "respuesta_predeterminada": "La UPQ ofrece actualmente: Ingenieria Mecatronica, Ingenieria en Tecnologias de la Informacion e Innovacion Digital, Ingenieria en Tecnologia Automotriz, Ingenieria en Manufactura Avanzada, Ingenieria de Datos e Inteligencia Artificial, Licenciatura en Administracion y Licenciatura en Comercio Internacional y Aduanas.",
       "fuente": null,
       "verificacion": "pendiente_de_verificacion"
     },
     "contacto": {
-      "cantidad": 20,
-      "respuesta_predeterminada": "Puedes contactar a la Universidad Politécnica de Querétaro al teléfono (442) 101 9000 o a través del correo captacion@upq.edu.mx.",
+      "cantidad": 138,
+      "respuesta_predeterminada": "Puedes contactar a la Universidad Politecnica de Queretaro al telefono (442) 101 9000 o a traves del correo captacion@upq.edu.mx.",
       "fuente": null,
       "verificacion": "pendiente_de_verificacion"
     },
     "costo_admision": {
-      "cantidad": 20,
-      "respuesta_predeterminada": "El costo del proceso de admisión es de 15.93 UMA vigentes al momento de realizar el pago. Consulta el valor actual de la UMA.",
+      "cantidad": 134,
+      "respuesta_predeterminada": "El costo del proceso de admision es de 15.93 UMA vigentes al momento de realizar el pago. Consulta el valor actual de la UMA.",
       "fuente": null,
       "verificacion": "pendiente_de_verificacion"
     },
-    "oferta_educativa": {
-      "cantidad": 20,
-      "respuesta_predeterminada": "En la convocatoria de admisión 2026 se anuncian, entre otros programas, Ingeniería Mecatrónica, Ingeniería en Tecnología Automotriz, Ingeniería en Manufactura Avanzada, Ingeniería en Tecnologías de la Información e Innovación Digital e Ingeniería de Datos e Inteligencia Artificial. Revisa la convocatoria vigente para conocer toda la oferta disponible.",
-      "fuente": "https://queretaro.gob.mx/documents/714060/1641609/Convocatoria%2BUPQ.pdf/a4cfdc51-f586-a49e-817b-4405bed436a6?t=1769117944260",
-      "verificacion": "fuente_incluida"
+    "estadias": {
+      "cantidad": 128,
+      "respuesta_predeterminada": "Las estadias son actividades de formacion vinculadas con la practica profesional. Consulta los requisitos de tu programa educativo.",
+      "fuente": null,
+      "verificacion": "pendiente_de_verificacion"
+    },
+    "idiomas": {
+      "cantidad": 122,
+      "respuesta_predeterminada": "La UPQ contempla actividades de su Centro de Idiomas. Consulta la oferta y los periodos de inscripcion vigentes.",
+      "fuente": null,
+      "verificacion": "pendiente_de_verificacion"
+    },
+    "movilidad": {
+      "cantidad": 117,
+      "respuesta_predeterminada": "La UPQ contempla gestiones de vinculacion con universidades del extranjero. Consulta las oportunidades disponibles y sus convocatorias.",
+      "fuente": null,
+      "verificacion": "pendiente_de_verificacion"
     },
     "servicios_escolares": {
-      "cantidad": 20,
-      "respuesta_predeterminada": "Servicios Estudiantiles de la UPQ supervisa inscripciones, reinscripciones, altas, bajas, historial académico y documentos escolares. Consulta el trámite y sus requisitos vigentes en https://www.upq.mx/.",
+      "cantidad": 141,
+      "respuesta_predeterminada": "El costo de la reinscripcion cuatrimestral en la UPQ es de 45.00 UMA para licenciaturas generales e ingenierias. El equivalente en pesos depende del valor vigente de la UMA diaria.",
       "fuente": "https://www.upq.mx/uploads/documentos/informacionpublica/transparencia/art66/2/A/2021/DIRECTORDESERVICIOSESTUDIANTILES.pdf",
-      "verificacion": "fuente_incluida"
-    },
-    "sistema_alumnos": {
-      "cantidad": 20,
-      "respuesta_predeterminada": "La UPQ dispone de un Sistema Integral de Información para alumnos. Para consultar trámites o recuperar acceso, revisa el módulo oficial: https://sistemaintegral.upq.edu.mx/alumnos.php/password-recover.",
-      "fuente": "https://sistemaintegral.upq.edu.mx/alumnos.php/password-recover",
-      "verificacion": "fuente_incluida"
+      "verificacion": "fuente_incluida_pendiente_de_verificacion"
     },
     "titulacion": {
-      "cantidad": 20,
-      "respuesta_predeterminada": "La UPQ publica convocatorias de titulación con requisitos y pasos. En la convocatoria consultada se menciona contar con los créditos del programa y liberar servicio social; verifica la convocatoria vigente y el trámite con Servicios Estudiantiles.",
+      "cantidad": 122,
+      "respuesta_predeterminada": "Consulta con el area de Titulacion los requisitos, formatos, pagos y pasos vigentes para iniciar tu tramite.",
       "fuente": "https://www.upq.mx/uploads/documentos/informacionpublica/transparencia/art66/18/2023/UPQ-DSE-FO-001_CT_2023.pdf",
-      "verificacion": "fuente_incluida"
+      "verificacion": "fuente_incluida_pendiente_de_verificacion"
+    },
+    "tutorias": {
+      "cantidad": 116,
+      "respuesta_predeterminada": "La tutoria forma parte de las actividades de acompañamiento academico contempladas por la UPQ.",
+      "fuente": null,
+      "verificacion": "pendiente_de_verificacion"
     },
     "ubicacion": {
-      "cantidad": 20,
-      "respuesta_predeterminada": "La Universidad Politécnica de Querétaro (UPQ) se encuentra en Carretera Estatal 420 S/N, Comunidad El Rosario, C.P. 76240, El Marqués, Querétaro.",
+      "cantidad": 127,
+      "respuesta_predeterminada": "La Universidad Politecnica de Queretaro (UPQ) se encuentra en Carretera Estatal 420 S/N, Comunidad El Rosario, C.P. 76240, El Marques, Queretaro.",
       "fuente": null,
       "verificacion": "pendiente_de_verificacion"
     }
   },
+  "fuentes_generales": [
+    "https://www.upq.mx/"
+  ],
+  "datos_aportados_por_el_equipo": {
+    "reinscripcion_cuatrimestral": {
+      "costo_uma": 45.0,
+      "aplica_a": [
+        "licenciaturas generales",
+        "ingenierias"
+      ]
+    },
+    "becas": {
+      "movilidad": "Convenios internacionales",
+      "vulnerabilidad": "Descuento en reinscripcion",
+      "proyecto": "Apoyo de 2000 MXN mensuales por desarrollar un proyecto en un area de la UPQ",
+      "excelencia_academica": "Promedio de 9.5 o superior"
+    },
+    "verificacion": "pendiente_de_verificacion_documental"
+  },
+  "entrenamiento": {
+    "algoritmos": [
+      "SVM (LinearSVC)",
+      "Naive Bayes (MultinomialNB)"
+    ],
+    "modelo_seleccionado": "SVM",
+    "vectorizacion": "TF-IDF",
+    "optimizacion": "GridSearchCV",
+    "validacion_cruzada_particiones": 3,
+    "proporcion_prueba": 0.2,
+    "semilla": 42,
+    "archivos_modelos": [
+      "modelos/modelo_svm.joblib",
+      "modelos/modelo_nb.joblib"
+    ],
+    "metricas_ultimo_entrenamiento": null,
+    "metricas_referencia": {
+      "total_ejemplos": 1889,
+      "entrenamiento": 1511,
+      "prueba": 378,
+      "svm": {
+        "accuracy": 0.8492,
+        "precision_macro": 0.8538,
+        "recall_macro": 0.8504,
+        "f1_macro": 0.8477,
+        "f1_macro_cv": 0.8392
+      },
+      "naive_bayes": {
+        "accuracy": 0.7963,
+        "precision_macro": 0.8006,
+        "recall_macro": 0.7969,
+        "f1_macro": 0.7947,
+        "f1_macro_cv": 0.7696
+      }
+    }
+  },
+  "recuperacion_respuestas": {
+    "metodo": "TF-IDF por palabras y caracteres con similitud coseno",
+    "umbral_confianza_svm": 0.25,
+    "umbral_similitud": 0.25,
+    "peso_palabras": 0.6,
+    "peso_caracteres": 0.4
+  },
   "notas": [
-    "Las 100 primeras filas proceden del CSV original del equipo y deben verificarse con fuentes oficiales, sobre todo costos y plazos.",
-    "Las respuestas para las cinco categorías nuevas se basan en las fuentes enlazadas; los requisitos pueden cambiar.",
-    "La confianza mostrada en la interfaz es una probabilidad estimada del clasificador, no una garantía de exactitud."
+    "Las cantidades y respuestas se obtuvieron del CSV corregido de 1897 registros. Las respuestas predeterminadas son representativas; el chatbot recupera respuestas especificas del corpus.",
+    "Las fuentes enlazadas se conservan del metadata original y no se han verificado nuevamente. La pagina institucional general no acredita por si sola cada respuesta.",
+    "Los datos de becas y reinscripcion fueron proporcionados por el equipo y requieren respaldo documental oficial.",
+    "Las metricas de referencia corresponden a la version anterior de 1889 preguntas; faltan los resultados del ultimo entrenamiento con 1897 preguntas.",
+    "La confianza del SVM es un puntaje de decision, no una probabilidad ni una garantia de exactitud.",
+    "Los umbrales y pesos de recuperacion son configuraciones iniciales pendientes de validacion amplia."
   ]
 }
